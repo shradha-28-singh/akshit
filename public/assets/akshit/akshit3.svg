@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#edf5ff"/>
+  <circle cx="450" cy="340" r="190" fill="#cfe2ff"/>
+  <rect x="170" y="560" width="560" height="400" rx="28" fill="#fffafc" opacity="0.8"/>
+  <text x="450" y="690" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="#1a2d4a">Akshit</text>
+  <text x="450" y="770" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#5873a5">Your favorite person</text>
+</svg>

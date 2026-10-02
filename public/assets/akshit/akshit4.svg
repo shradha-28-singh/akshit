@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f7edf4"/>
+  <rect x="120" y="120" width="660" height="960" rx="44" fill="#fff" opacity="0.75"/>
+  <circle cx="450" cy="370" r="180" fill="#f2d5df"/>
+  <rect x="195" y="610" width="510" height="300" rx="24" fill="#edf5ff" opacity="0.9"/>
+  <text x="450" y="750" text-anchor="middle" font-family="Georgia, serif" font-size="68" fill="#1a2d4a">Love</text>
+</svg>
